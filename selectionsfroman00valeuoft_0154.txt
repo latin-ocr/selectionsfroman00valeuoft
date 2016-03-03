@@ -1,0 +1,140 @@
+138
+
+Calpurnius, 43.
+
+Camillus, 2.
+campus, 15.
+cano, 27.
+caper, 31.
+capio, 5.
+capitalis, 22.
+captivus, 21.
+capulus, 28.
+caput, 6.
+carcer, 23.
+caritas, 30.
+Carrae, 11.
+casa, 45.
+Cassander, 19.
+Cassius, 25.
+castigatio, 45.
+castigo, 11.
+Castor, 23.
+castra, 7.
+castrensis, 47.
+casus, 17.
+catellus, 3.
+Cato, 46.
+caupo, 22.
+causa, 4.
+cavea, 10.
+caveo, 19.
+cavillor, 27.
+-ce, 33.
+
+Cea, 37.
+celebro, 31.
+00101, 22.
+celeriter, 48.
+cena, 46.
+cenito, 29.
+ceno, 21.
+censeo, 31.
+censor, 47.
+censorius, 47.
+censura, 47.
+centurio, 1.
+
+cera, 48.
+cerno, 24.
+certamen, 39.
+certo, 2.
+certus, 3.
+ceterum, 26.
+cibus, 34.
+CicerO, 17.
+cicuta, 37.
+Cimber, 50.
+Cimbricus, 50.
+Cincinnatus, 41.
+cingo, 31.
+circa, 6.
+circumvenio, 22.
+civilis, 32.
+civis, 35.
+civitas, 25.
+clades, 9.
+claritas, 50.
+clamor, 11.
+clarus, 3.
+
+classis, 46.
+
+claudo, 40.
+claudus, 46.
+claustrum, 45.
+clementia, 44.
+
+Cn. Ξ Gnaeus, 12.
+coagmentum, 12.
+
+coepi, 16.
+coerceo, 47.
+cognomen, 5.
+cognosco, 19.
+cogo, 38.
+cohors, 44.
+cohortatio, 35.
+cohortor, 37.
+collega, 32.
+collegium, 33.
+collis, 14.
+colo, 24.
+
+, columen, 45.
+
+VALERIUS MAXIMUS.
+
+comes, 22.
+comitium, 1, ⁷
+comminuo, 50.
+compleo, 32.
+comprehendo, 17.
+compos, 32.
+concedo, 42.
+concentus, 33.
+0011011111111, 48.
+concito, 25.
+concordia, 37.
+concors, 29.
+concurro, 15.
+condicio, 1.
+condo, 25.
+confero, 22.
+confirmo, 1.
+conflicto, 17.
+confligo, 9.
+confluo, 4.
+confrango, 12.
+confugio, 42.
+congero, 13.
+congressus, 49.
+congruo, 16.
+conicio, 23.
+conitor, 40.
+coniunx, 39.
+conlabor, 26.
+conloco, 24.
+conloquium, 30.
+conor, 22.
+conparo, 21.
+conpello, 7.
+conplures, 39.
+conprimo, 44.
+conscendo, 4.
+conscriptus, 1.
+consecro, 49.
+consido, 32.
+consilium, 1.
+consimilis, 28.
+
